@@ -1,4 +1,4 @@
 <?php
-hii task2 working
+Index.php with wrong syntax will trigger mail
 
 ?>
